@@ -25,3 +25,6 @@ If you find this code useful, please cite the above-mentioned paper:
   |----------|
 
 * All other data used for numerical experiments in this project have been created artificially by the authors.
+
+## License  
+This project is licensed under the GPLv3 license - see [LICENSE](LICENSE) for details.
