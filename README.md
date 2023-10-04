@@ -2,9 +2,9 @@
 
 This repository contains the experimental source code to reproduce the numerical experiments in:
 
-* J. Chirinos Rodriguez, E. de Vito, C. Molinari, L. Rosasco, S. Villa. A Supervised Learning Approach to Regularization of Inverse Problems, 2023. [ArXiv preprint](add link)
+* J. Chirinos Rodriguez, E. De Vito, C. Molinari, L. Rosasco, S. Villa. A Supervised Learning Approach to Regularization of Inverse Problems, 2023. [ArXiv preprint](add link)
 
-The numerical experiments in section 6 are included in the folder ..., and are divided in 4 documents: spectral.ipynb, lasso_denoising.ipynb, lasso_deblurring.ipynb and TV_denoising.ipynb.
+The numerical experiments exposed in section 6 are divided in 4 documents: spectral.ipynb, lasso_denoising.ipynb, lasso_deblurring.ipynb and TV_denoising.ipynb. 
 
 If you find this code useful, please cite the above-mentioned paper:
 ```BibTeX
@@ -19,5 +19,9 @@ If you find this code useful, please cite the above-mentioned paper:
 
 ## Acknowledgments  
 
-* | ![](<euflag.png>) | EC has received funding from the European Union's Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement no. 861137. KE acknowledges that this project has received funding from the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement No 754362. |
+* | ![](<euflag.png>) | This project has ben supported by the TraDE-OPT project, with JCR and SV as members, and which received funding from the European Union’s Horizon 2020 research and innovation program under the Marie Skłodowska-Curie grant agreement No 861137. |
   |----------|----------|
+* | LR acknowledges the financial support of the European Research Council (grant SLING 819789), the AFOSR projects FA9550-18-1-7009 (European Office of Aerospace Research and Development), the EU H2020-MSCA-RISE project NoMADS - DLV-777826, and the Center for Brains, Minds and Machines (CBMM), funded by NSF STC award CCF-1231216. SV and LR acknowledge the support of the AFOSR project FA8655-22-1-7034. EDV, SV and CM are members of the Gruppo Nazionale per l’Analisi Matematica, la Probabilità e le loro Applicazioni (GNAMPA) of the Istituto Nazionale di Alta Matematica (INdAM). |
+  |----------|
+
+* All other data used for numerical experiments in this project have been created artificially by the authors.
