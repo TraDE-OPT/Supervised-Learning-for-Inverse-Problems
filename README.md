@@ -6,17 +6,6 @@ This repository contains the experimental source code to reproduce the numerical
 
 The numerical experiments exposed in section 6 are divided in 4 documents: spectral.ipynb, lasso_denoising.ipynb, lasso_deblurring.ipynb and TV_denoising.ipynb. 
 
-If you find this code useful, please cite the above-mentioned paper:
-```BibTeX
-@article{,
-  author = {},
-  title = {},
-  pages = {},
-  journal = {ArXiv},
-  year = {2023}
-}
-```
-
 ## Acknowledgments  
 
 * | ![](<euflag.png>) | This project has ben supported by the TraDE-OPT project, with JCR and SV as members, and which received funding from the European Union’s Horizon 2020 research and innovation program under the Marie Skłodowska-Curie grant agreement No 861137. |
