@@ -1,4 +1,4 @@
-# Supervised-Learning-for-Inverse-Problems
+# Learning-the-Regularization-Parameter
 
 This repository contains the experimental source code to reproduce the numerical experiments in:
 
