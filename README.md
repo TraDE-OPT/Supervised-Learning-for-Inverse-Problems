@@ -2,7 +2,7 @@
 
 This repository contains the experimental source code to reproduce the numerical experiments in:
 
-* J. Chirinos Rodriguez, E. De Vito, C. Molinari, L. Rosasco, S. Villa. A Supervised Learning Approach to Regularization of Inverse Problems. In preparation.
+* J. Chirinos Rodriguez, E. De Vito, C. Molinari, L. Rosasco, S. Villa. A Supervised Learning Approach to Regularization of Inverse Problems. 2023. [Arxiv preprint](https://arxiv.org/abs/2311.15845)
 
 The numerical experiments exposed in section 6 are divided in 4 documents: spectral.ipynb, lasso_denoising.ipynb, lasso_deblurring.ipynb and TV_denoising.ipynb. 
 
